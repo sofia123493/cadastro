@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend:wght@100..900&family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: "Outfit", serif;
+    color: rgb(59, 30, 84);
+}
+
+.container{
+    background-color: rgb(242, 219, 255);
+    padding: 50px;
+    width: 338px;
+    position: relative;
+    left: 686px;
+    top: 128px;
+    transition: none;
+    cursor: move;
+    height: 549.875px;
+    border-radius: 8px;
+}
+input{
+    border-radius: 8px;
+}
